@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/f/xgebrkvn",
+                url: "https://cors-anywhere.herokuapp.com/https://formspree.io/f/xgebrkvn",
                 type: "POST",
                 data: {
                     name: name,
