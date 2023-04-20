@@ -4,8 +4,8 @@ subtitle: Unity | C#
 layout: default
 modal-id: 3
 date: 2022-11-22
-img: Clash-Game.jpg
-thumbnail: Clash-Game.jpg
+img: default-3.jpg
+thumbnail: default-3.jpg
 alt: image-alt
 project-date: November 2022
 company: Personal
