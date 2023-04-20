@@ -1,0 +1,45 @@
+<!-- Who I Am Section -->
+<section id="who-i-am" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Who I Am</h2>
+                <h3 class="section-subheading text-muted">Character Backstory</h3>
+            </div>
+        </div>
+        <div class="container">
+            {% for member in site.people %}
+            <div class="col-sm-12">
+                <div class="team-member">
+                    <img src="{{ site.baseurl }}img/team/my-portrait.jfif" class="img-responsive img-circle" alt="">
+                    <h4>{{member.name}}</h4>
+                    <p class="text-muted">{{ member.position }}</p>
+                    <ul class="list-inline social-buttons">
+                        {% for network in member.social %}
+                        <li>
+                            <a href="{{ network.url }}">
+                                <i class="fa fa-{{ network.title }}"></i>
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {%endfor%}
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <p class="large text-muted"> Currently working as an intermediate game programmer at Popreach Inc, I am
+                    a passionate game developer with a love for creative pursuits beyond the gaming world.
+                    <br></br> In my free time, I enjoy cooking up delicious meals in the kitchen, exploring new recipes
+                    and techniques to perfect my culinary skills. I find that cooking is not unlike game development, in
+                    that both require a combination of creativity, precision, and attention to detail.
+                    <br></br> Of course, my biggest passion remains game development, and I am constantly exploring new
+                    ideas and technologies to push the boundaries of what is possible. With a unique blend of technical
+                    know-how and interpersonal skills, I am confident that I can bring your ideas to life, delivering
+                    unforgettable gaming experiences that leave players eager for more.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>

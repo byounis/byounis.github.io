@@ -1,0 +1,16 @@
+---
+title: Shooter Project
+subtitle: Unreal | FPS | C++
+layout: default
+modal-id: 2
+date: 2023-02-10
+img: Clash-Game.jpg
+thumbnail: Clash-Game.jpg
+alt: image-alt
+project-date: February 2023
+company: Personal
+link:  
+category: Game Development
+description: A first-person shooter built on the Unreal game engine. The goal of this project was to improve my C++ skills and expand my game development skills into Unreal.
+
+---
