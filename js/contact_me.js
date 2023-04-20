@@ -20,7 +20,6 @@ $(function() {
             $.ajax({
                 url: "https://formspree.io/f/xjvdjwgq",
                 type: "POST",
-                contentType: "application/json",
                 data: {
                     name: name,
                     phone: phone,
