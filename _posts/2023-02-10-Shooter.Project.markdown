@@ -4,8 +4,8 @@ subtitle: Unreal | FPS | C++
 layout: default
 modal-id: 2
 date: 2023-02-10
-img: Clash-Game.jpg
-thumbnail: Clash-Game.jpg
+img: default-2.jpg
+thumbnail: default-2.jpg
 alt: image-alt
 project-date: February 2023
 company: Personal
