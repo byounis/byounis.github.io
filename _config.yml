@@ -1,0 +1,35 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Bassem's Portfolio
+email: byounis0@gmail.com
+description: "Bassem's Game Development Portfolio"
+
+
+# Team names, titles and social links
+people:
+- name: Bassem Younis
+  pic: 1
+  position: Intermediate Programmer @ PopReach Inc.
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/bassemyounis/
+    - title: github
+      url: https://github.com/byounis
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/bassemyounis/
+  - title: github
+    url: https://github.com/byounis
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Calgary
+  - line: Alberta, Canada
+
+# Build settings
+markdown: kramdown
+permalink: pretty
