@@ -8,6 +8,7 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
+    background-color: #121212;
 }
 
 .text-muted {
@@ -62,7 +63,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #212121;
 }
 
 .bg-darkest-gray {
@@ -414,7 +415,7 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: #121212;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -685,10 +686,12 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    background-color: #121212;
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    height: 248px;
+    background-color: #121212;
 }
 
 section#contact .form-control:focus {
@@ -789,6 +792,7 @@ ul.social-buttons li a:active {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    background-color: #121212;
 }
 
 .portfolio-modal .modal-content h2 {
