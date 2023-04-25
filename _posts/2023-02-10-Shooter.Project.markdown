@@ -1,16 +1,17 @@
 ---
 title: Shooter Project
-subtitle: Unreal | FPS | C++
+subtitle: Unreal | Third-person Shooter | C++
 layout: default
 modal-id: 2
 date: 2023-02-10
-img: default-2.jpg
-thumbnail: default-2.jpg
+img: shooter.png
+video: shooter.mp4
+thumbnail: shooter.png
 alt: image-alt
-project-date: February 2023
+project-date: February 2023 - TBA
 company: Personal
-link:  
+link: https://github.com/byounis/Simple-Shooter
 category: Game Development
-description: A first-person shooter built on the Unreal game engine. The goal of this project was to improve my C++ skills and expand my game development skills into Unreal.
+description: A third-person shooter built on the Unreal game engine. The goal of this project was to improve my C++ skills and expand my game development skills into Unreal. I set up the animation blending logic, game loop, enemy AI behaviour and hit scan guns. 
 
 ---

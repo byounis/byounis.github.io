@@ -4,10 +4,11 @@ subtitle: Unity | C#
 layout: default
 modal-id: 3
 date: 2022-11-22
-img: default-3.jpg
-thumbnail: default-3.jpg
+img: rpgproject.jpg
+video: rpgproject.mp4
+thumbnail: rpgproject.jpg
 alt: image-alt
-project-date: November 2022
+project-date: November 2022 - TBA
 company: Personal
 link: https://github.com/byounis/Unity_Fantasy_RPG_Project
 category: Game Development

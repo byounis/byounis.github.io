@@ -10,7 +10,7 @@
         <div class="row">
             {% for post in site.posts %}
             {% assign delay = forloop.index0 | modulo: 3 | times: 0.1%}
-            <div class="col-md-4 col-sm-6 portfolio-item wow bounceIn" data-wow-delay="{{(delay}}s">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeIn" data-wow-delay="{{(delay}}s">
                 <a href=" #portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">

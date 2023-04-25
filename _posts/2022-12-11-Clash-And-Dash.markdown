@@ -6,6 +6,7 @@ modal-id: 5
 date: 2022-12-11
 img: Clash-Game.jpg
 thumbnail: Clash-Game.jpg
+video: clashdash.mp4
 alt: image-alt
 project-date: December 2022
 company: Personal

@@ -7,7 +7,7 @@ date: 2022-01-12
 img: blender-adventures.png
 thumbnail: blender-adventures.png
 alt: image-alt
-project-date: April 2014
+project-date: January 2022
 company: Personal
 link: https://github.com/byounis/Blender-Adventures
 category: 3d Modelling And Animation
