@@ -4,9 +4,9 @@ subtitle: Unity | C#
 layout: default
 modal-id: 3
 date: 2022-11-22
-img: rpgproject.jpg
+img: rpgproject2.jpg
 video: rpgproject.mp4
-thumbnail: rpgproject.jpg
+thumbnail: rpgproject2.jpg
 alt: image-alt
 project-date: November 2022 - TBA
 company: Personal
