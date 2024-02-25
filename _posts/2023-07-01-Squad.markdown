@@ -1,0 +1,15 @@
+---
+title: Squad
+subtitle: Unreal | Multiplayer | FPS | C++
+layout: default
+modal-id: 7
+date: 2023-07-01
+img: SquadBanner.jfif
+thumbnail: SquadBanner.jfif
+alt: image-alt
+project-date: July 2023 - Present
+company: Offworld Industries
+link: https://joinsquad.com/
+category: Game Development
+description: My second professional game project, Squad! A tactical, multiplayer first-person shooter. As part of the Foundations team of a live product, I was responsible for fixing major bugs, upgrading legacy systems to Unreal Engine 5 and integrating new Unreal Engine features; from Metasounds to Niagara.
+---
