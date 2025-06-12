@@ -7,7 +7,7 @@ date: 2023-07-01
 img: SquadBanner.jfif
 thumbnail: SquadBanner.jfif
 alt: image-alt
-project-date: July 2023 - Present
+project-date: July 2023 - May 2024
 company: Offworld Industries
 link: https://joinsquad.com/
 category: Game Development
