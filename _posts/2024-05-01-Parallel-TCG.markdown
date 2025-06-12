@@ -4,8 +4,8 @@ subtitle: Unity | Multiplayer | TCG | C#
 layout: default
 modal-id: 8
 date: 2024-05-01
-img: SquadBanner.jfif
-thumbnail: SquadBanner.jfif
+img: ParallelTCG.jpg
+thumbnail: ParallelTCG.jpg
 alt: image-alt
 project-date: June 2024 - Present
 company: Parallel Studios
